@@ -1,0 +1,28 @@
+--Function
+ 1.Lấy mã tỉnh
+ 2.Lấy mã huyện bằng tên huyện và mã tỉnh
+ 3.Lấy mã hóa đơn
+ 4.Trả về số lượng sinh viên đã đăng ký vào phòng nào đó
+ 5.lấy danh sách sinh viên theo trạng thái
+ 6.Lấy mã khu vực theo tên tinh
+--Trigger
+ 1.Cập nhật trạng thái tại bẳng hóa đơn bằng 1 (đã thanh toán)
+ 2.Kiểm tra hóa đơn
+ 3.Kiểm tra phòng  đăng ký
+ 4.Hủy đăng ký phòng
+--Procedure
+ 1.Lấy người dùng bằng username
+ 2.Lấy người dùng bằng id
+ 3.Lấy sinh viên băng id
+ 4.Lấy admin bằng id
+ 5.lấy xã, phường bằng của huyện bằng tỉnh, huyện.
+ 6.lấy danh sách quản trị viên.
+ 7.Dùng để thay đổi mật khẩu
+ 8.Lấy danh sách phòng
+ 9.Lấy danh sách phòng bằng mã khu vực
+ 10.Lấy danh sách khu
+ 11.Lấy danh sách user
+ 12.Lấy 1 nhân viên
+ 13.Cập nhật lương cho nhân viên
+ 14.Hủy đăng kí phòng
+ 15.Xóa sinh viên

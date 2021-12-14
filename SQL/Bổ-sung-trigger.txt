@@ -1,0 +1,10 @@
+Trigger
+ 1.Mật khẩu người dùng không được để trống và nhỏ hơn 4 ký tự
+ 2.Trạng thái người dùng không được lớn hơn 2
+ 3.Tên đăng nhập phải nhỏ hơn 30 ký tự
+ 4.Sinh Viên phải trên 18 tuổi
+ 5.USERTYLE chỉ có thể là NV hoặc SV
+ 6.SĐT không được lớn hơn 10 số
+ 7.Giới tính chỉ có thể Nam , nữ hoặc khác
+ 8.Nhân viên phải lớn hơn 20 tuổi
+ 9. Loại phòng chỉ có thể là "phòng đôi","phòng bốn","Phòng 6","phòng 8"

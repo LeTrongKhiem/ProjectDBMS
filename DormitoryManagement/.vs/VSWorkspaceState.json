@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DormitoryManagement",
+    "\\DormitoryManagement\\Controller",
+    "\\DormitoryManagement\\DbConnection",
+    "\\DormitoryManagement\\Model",
+    "\\DormitoryManagement\\Utility",
+    "\\DormitoryManagement\\View"
+  ],
+  "SelectedNode": "\\DormitoryManagement\\packages.config",
+  "PreviewInSolutionExplorer": false
+}
